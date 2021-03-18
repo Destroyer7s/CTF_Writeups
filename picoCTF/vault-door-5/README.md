@@ -83,9 +83,8 @@ class VaultDoor5 {
 		Base64.Decoder decoder = Base64.getDecoder();
 		String UTF = new String(decoder.decode(flag));
 		String pass = java.net.URLDecoder.decode(UTF, StandardCharsets.UTF_8);
-		System.out.print("picoCTF{");
-		System.out.print(pass);
-		System.out.print("}");
+		System.out.print("picoCTF{" + pass + "}");
+
 
 	}
 
