@@ -1,8 +1,8 @@
 
 
+The challenge reads:
 
 This vault uses ASCII encoding for the password. The source code for this vault is here: VaultDoor4.java
-
 
 Opening the java file, we see the code:
 
@@ -82,14 +82,6 @@ class VaultDoor4 {
 The result/flag is:
 
 **picoCTF{jU5t_4_bUnCh_0f_bYt3s_f4a8cd8f7e}**
-
-
-
-
-
-
-
-
 
 
 
