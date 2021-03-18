@@ -115,4 +115,4 @@ and the "password" is: d35cr4mb13_tH3_cH4r4cT3r5_f6daf4
 
 So the flag is:  
 
-**picoCTF{d35cr4mb13_tH3_cH4r4cT3r5_f6daf4}**
+**picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_f6daf4}**
