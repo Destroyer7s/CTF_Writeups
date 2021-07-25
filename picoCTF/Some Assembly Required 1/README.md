@@ -3,7 +3,7 @@ For this one we are only given the link.
 ![alt text](https://github.com/Destroyer7s/CTF_Writeups/blob/main/picoCTF/Some%20Assembly%20Required%201/Some%20Assembly%20Required%201%20.png)
 
 
-I was just doing my usual poking around using inspect element when I stumbled apon what lied in the networks tab. I saw `/index.html` and didn't find much of use and thought I would continue looking through the other entries in the networks tab just for kicks but ended up finding something useful. 
+I was just doing my usual poking around using inspect element when I stumbled apon what was in the networks tab. I saw `/index.html` and didn't find much of use and thought I would continue looking through the other entries in the networks tab just for kicks but ended up finding something useful. 
 
 ![alt text](https://github.com/Destroyer7s/CTF_Writeups/blob/main/picoCTF/Some%20Assembly%20Required%201/Some%20Assembly%20Required%201.png)
 
